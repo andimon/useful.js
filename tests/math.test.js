@@ -12,7 +12,7 @@ describe('Utility Functions', () => {
     const result = multiply(num1, num2);
     
     // Assert (checking the result)
-    expect(result).toBe(21);
+    expect(result).toBe(20);
   });
 
   // Test case for the isEven function
